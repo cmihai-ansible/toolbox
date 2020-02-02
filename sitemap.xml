@@ -421,12 +421,37 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://cmihai-ansible.github.io/toolbox/roles_server/postgresql/</loc>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_server_db/postgresql/</loc>
      <lastmod>2020-02-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://cmihai-ansible.github.io/toolbox/roles_server/mariadb/</loc>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_server_db/mariadb/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_server_db/redis/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_streaming/flink/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_streaming/spark/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_streaming/kafka/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_streaming/activemq/</loc>
      <lastmod>2020-02-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
