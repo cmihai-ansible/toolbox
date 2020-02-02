@@ -436,6 +436,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_server_db/mongodb/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://cmihai-ansible.github.io/toolbox/roles_streaming/flink/</loc>
      <lastmod>2020-02-02</lastmod>
      <changefreq>daily</changefreq>
@@ -452,6 +457,21 @@
     </url>
     <url>
      <loc>https://cmihai-ansible.github.io/toolbox/roles_streaming/activemq/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_streaming/airflow/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_search/solr/</loc>
+     <lastmod>2020-02-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_search/elasticsearch/</loc>
      <lastmod>2020-02-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
