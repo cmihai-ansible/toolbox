@@ -631,6 +631,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_cloud_ibm/provision-rhv/</loc>
+     <lastmod>2020-02-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://cmihai-ansible.github.io/toolbox/roles_cloud_azure/provision-virtual-server/</loc>
      <lastmod>2020-02-03</lastmod>
      <changefreq>daily</changefreq>
