@@ -691,28 +691,28 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_migration/conver2rhel/</loc>
+     <lastmod>2020-02-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_migration/migration-planning-guide/</loc>
+     <lastmod>2020-02-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_migration/ims/</loc>
+     <lastmod>2020-02-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_migration/app-migration-toolkit/</loc>
+     <lastmod>2020-02-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_migration/openshift-cam/</loc>
+     <lastmod>2020-02-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
