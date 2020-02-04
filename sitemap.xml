@@ -656,6 +656,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_containers_openshift/codeready-containers/</loc>
+     <lastmod>2020-02-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://cmihai-ansible.github.io/toolbox/roles_containers_openshift/openshift-install/</loc>
      <lastmod>2020-02-04</lastmod>
      <changefreq>daily</changefreq>
@@ -696,7 +701,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://cmihai-ansible.github.io/toolbox/roles_migration/conver2rhel/</loc>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_migration/convert2rhel/</loc>
      <lastmod>2020-02-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -717,6 +722,11 @@
     </url>
     <url>
      <loc>https://cmihai-ansible.github.io/toolbox/roles_migration/openshift-cam/</loc>
+     <lastmod>2020-02-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/roles_sap/sap-baselines/</loc>
      <lastmod>2020-02-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
