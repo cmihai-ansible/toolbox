@@ -711,6 +711,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://cmihai-ansible.github.io/toolbox/playbooks/fedora-workstation/</loc>
      <lastmod>2020-02-04</lastmod>
      <changefreq>daily</changefreq>
