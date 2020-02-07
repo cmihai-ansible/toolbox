@@ -186,6 +186,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://cmihai-ansible.github.io/toolbox/ansible_best_practices/automation-hub/</loc>
+     <lastmod>2020-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://cmihai-ansible.github.io/toolbox/ansible_best_practices/collections/</loc>
      <lastmod>2020-02-07</lastmod>
      <changefreq>daily</changefreq>
